@@ -1,0 +1,2 @@
+0 1 * * * (cd /idevops/app/application_management && chown www-data:www-data storage -R )
+

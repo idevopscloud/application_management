@@ -1,0 +1,7 @@
+ForbiddenException: "不允许操作"
+develop_is_required: "请为开发环境选择节点"
+deprecated_publicips: "Component (:name) service has invalid deprecatedPublicIPs 0.0.0.0"
+duplicate_binding: "组件(:name)中存在重复的IP(:ipaddress)和端口(:port)绑定，请重新设置"
+no_resource_pool: "No resource pool for :env_category, plsease add in app settings"
+
+

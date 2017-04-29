@@ -1,0 +1,19 @@
+ForbiddenException: "不允许操作"
+not_allowed: "不允许操作"
+develop_is_required: "请为开发环境选择节点"
+product_exist: "正式发布环境已存在"
+deprecated_publicips: "同步后的新增组件(:name)，其服务的IP地址需要重新设置才能进行部署"
+duplicate_binding: "组件(:name)中存在重复的IP(:ipaddress)和端口(:port)绑定，请重新设置"
+no_resource_pool: "没有为应用设置:env_category环境，请在应用设置中添加"
+mem_usage_not_enough: "内存配额不足，请联系平台管理员增加配额，或降低副本数和内存用量"
+params_error: "参数错误"
+request_paas_error: "执行部署失败 :message"
+cancel_upadte_error: "无法取消，只有在部署过程中的实例才可以取消"
+request_cd_error: "执行构建失败，请重试"
+miss_registry: "无可用的Registry服务"
+approval_repeat_request: "已有待审批的请求，请取消之前的请求，重新申请"
+approval_repeat_deploy_request: "无法部署，已有待审批的线上操作，请取消之前的请求"
+blocked_by_team: "环境被团队占用"
+
+attributes:
+  Memory_is_not_enough: 内存不足
